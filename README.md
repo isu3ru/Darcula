@@ -5,3 +5,5 @@ The official Darcula Look and Feel for programming environments by Konstantin Bu
 
 Resources about how to create your own look and feel can be found at Oracle's official website:
 http://docs.oracle.com/javase/tutorial/uiswing/index.html
+
+This copy is forked from the original repository by isu3ru
